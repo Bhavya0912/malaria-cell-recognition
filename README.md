@@ -9,7 +9,7 @@ Using data augmentation in the Convolutional Neural Network approach decreases t
 
 ## Neural Network Model
 
-![image](https://user-images.githubusercontent.com/75235293/194753473-538b1915-a7e2-45db-88ab-7bfc0d86cbd6.png)
+![image](https://user-images.githubusercontent.com/75235293/204075948-431f8713-5071-447f-b95c-9881acd02ef9.png)
 
 
 ## DESIGN STEPS
@@ -165,7 +165,7 @@ else:
 
 ### Confusion Matrix
 
-![image](https://user-images.githubusercontent.com/75235293/194753401-75887c98-f430-4a18-a626-24f24b2ec14d.png)
+![image](https://user-images.githubusercontent.com/75235293/204075936-31461a54-e0c5-4cce-a243-0f6177fbc36c.png)
 
 
 ### New Sample Data Prediction
